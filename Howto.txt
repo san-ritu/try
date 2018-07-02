@@ -1,0 +1,5 @@
+Keep this in an empty folder.
+run lggr.exe
+make some keystrokes anywhere, any any where on the computer.
+now close the black screen.
+now open the newly autocreated file in the folder
